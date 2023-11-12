@@ -111,7 +111,7 @@ int main() {
         printf("4 - Salvar pilha em arquivo\n");
         printf("5 - Carregar pilha de arquivo\n");
         printf("0 - Sair\n");
-        printf("Escolha uma opção: ");
+        printf("Escolha uma opcao: ");
         scanf("%d", &opcao);
 
         switch (opcao) {
